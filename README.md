@@ -1,4 +1,13 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# User-Auth-System
+
+This project is a User Authentication System built with Next.js. It supports:
+- User registration and login
+- Email verification via a secure link
+- Forgot password flow
+- Reset password using a secure token
+- MailSnatcher integration for testing emails during development
+
+It's a minimal yet complete auth system that covers all the essential flows.
 
 ## Getting Started
 
@@ -33,4 +42,4 @@ You can check out [the Next.js GitHub repository](https://github.com/bhavya-jpg/
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more detail
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
